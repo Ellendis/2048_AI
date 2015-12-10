@@ -1,0 +1,56 @@
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\_2048_Grafos.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\_2048_Grafos.Jogo.resources
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\_2048_Grafos.Properties.Resources.resources
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\_2048_Grafos.ImageResources.resources
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\_2048_Grafos.csproj.GenerateResource.Cache
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\bin\Debug\_2048_Grafos.exe
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\bin\Debug\_2048_Grafos.pdb
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\_2048_Grafos.exe
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\_2048_Grafos.pdb
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.exe
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.pdb
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\bin\Debug\_2048_Grafos.exe
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\bin\Debug\_2048_Grafos.pdb
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Jogo.resources
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Properties.Resources.resources
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.ImageResources.resources
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.csproj.GenerateResource.Cache
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.exe
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.pdb
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\bin\Debug\_2048_Grafos.exe
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\bin\Debug\_2048_Grafos.pdb
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.csprojResolveAssemblyReference.cache
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Jogo.resources
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Properties.Resources.resources
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.ImageResources.resources
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.csproj.GenerateResource.Cache
+C:\Users\matheus.ediley\Desktop\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Sobre.resources
+C:\Users\Matheus Ediley\Documents\Visual Studio 2013\Projects\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Sobre.resources
+F:\Grafos_TI\WindowsAgent\bin\Debug\_2048_Grafos.exe
+F:\Grafos_TI\WindowsAgent\bin\Debug\_2048_Grafos.pdb
+F:\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Jogo.resources
+F:\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Properties.Resources.resources
+F:\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.ImageResources.resources
+F:\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.Sobre.resources
+F:\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.csproj.GenerateResource.Cache
+F:\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.exe
+F:\Grafos_TI\WindowsAgent\obj\x86\Debug\_2048_Grafos.pdb
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\obj\x86\Debug\_2048_Grafos.exe
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\obj\x86\Debug\_2048_Grafos.pdb
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\obj\x86\Debug\_2048_Grafos.csprojResolveAssemblyReference.cache
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\obj\x86\Debug\_2048_Grafos.Jogo.resources
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\obj\x86\Debug\_2048_Grafos.Properties.Resources.resources
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\obj\x86\Debug\_2048_Grafos.Sobre.resources
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\obj\x86\Debug\_2048_Grafos.csproj.GenerateResource.Cache
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\bin\Debug\_2048_Grafos.exe
+C:\Users\matheus.ediley\Desktop\Grafos_TI\2048\bin\Debug\_2048_Grafos.pdb
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\obj\x86\Debug\_2048_Grafos.exe
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\obj\x86\Debug\_2048_Grafos.pdb
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\bin\Debug\_2048_Grafos.exe
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\bin\Debug\_2048_Grafos.pdb
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\obj\x86\Debug\_2048_Grafos.csprojResolveAssemblyReference.cache
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\obj\x86\Debug\_2048_Grafos.Jogo.resources
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\obj\x86\Debug\_2048_Grafos.Properties.Resources.resources
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\obj\x86\Debug\_2048_Grafos.Sobre.resources
+C:\Users\matheus.ediley\Desktop\Grafos_2048\2048\obj\x86\Debug\_2048_Grafos.csproj.GenerateResource.Cache

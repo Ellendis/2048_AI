@@ -1,0 +1,5 @@
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\2048_Grafos.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\WindowsAgent.Jogo.resources
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\WindowsAgent.Properties.Resources.resources
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\WindowsAgent.ImageResources.resources
+C:\Users\Matheus Ediley\Desktop\2048AI-master\WindowsAgent\obj\x86\Debug\2048_Grafos.csproj.GenerateResource.Cache
